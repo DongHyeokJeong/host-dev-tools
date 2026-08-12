@@ -9,8 +9,8 @@
 
 ```
 backend/   Spring Boot (Java 17)
-  src/main/java/com/example/vantools/
-    VanToolsApplication.java
+  src/main/java/com/example/hostdevtools/
+    HostDevToolsApplication.java
     config/CorsConfig.java
     stringhex/           String → Hex 변환 기능
       StringHexController.java
